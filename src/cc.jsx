@@ -8,7 +8,7 @@ const cc = (props) => {
     <div>
       {/* {props.a.name} */}
       {/* srinivasan */}
-
+lakshmi
 
          {b.map((a)=>(
             <div key={a.id}>
